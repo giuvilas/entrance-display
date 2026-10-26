@@ -1,0 +1,6 @@
+# Only the published site files belong here; anything else stays local
+*
+!.gitignore
+!index.html
+!privacy.html
+!style.css
